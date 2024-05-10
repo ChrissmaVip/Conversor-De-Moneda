@@ -1,3 +1,3 @@
 # Conversor-De-Moneda
 
-<img src= ""  alt="Captura de pantalla de app" >
+<img src= "img_conversorMoneda.png"  alt="Captura de pantalla de app" >
